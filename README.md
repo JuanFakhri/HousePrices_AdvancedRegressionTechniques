@@ -34,3 +34,5 @@ Ya, Satu-satunya perbedaan antara himpunan data pelatihan dan himpunan data peng
 - 2.5. The dataset is again split into training and testing.
 - 2.6. The training dataset is split into two parts (training and validation) to see how well the trained model performs. 
 - 2.7. Data are normalized using the training data. Validation and test data are transformed using fitting parameters for normalization of training data. 
+
+Note : Untuk mendapatkan lebih rinci bisa akses atau download file notebook House Prices - AdvancedRegressionTechniques.ipynb
